@@ -127,7 +127,7 @@
     <value>&amp;Lista Negra</value>
   </data>
   <data name="blacklist_current_game" xml:space="preserve">
-    <value>&amp;Adicionar Jogo Atual a Lista Negra</value>
+    <value>&amp;Adicionar Jogo Atual à Lista Negra</value>
   </data>
   <data name="card_drops_remaining" xml:space="preserve">
     <value>cartas restantes</value>
@@ -184,7 +184,7 @@
     <value>Não está em jogo</value>
   </data>
   <data name="official_group" xml:space="preserve">
-    <value>Grupo oficial</value>
+    <value>Grupo Oficial</value>
   </data>
   <data name="pause_idling" xml:space="preserve">
     <value>&amp;Pausar "Idling"</value>
@@ -255,7 +255,7 @@
   <data name="cookie_warning" xml:space="preserve">
     <value>Exibir informações acima
 
-[WARNING]
+[AVISO]
 não compartilhe esta informação com ninguém, pois pode potencialmente ser usado por um invasor para entrar em sua conta Steam.</value>
   </data>
   <data name="general" xml:space="preserve">
@@ -268,7 +268,7 @@ não compartilhe esta informação com ninguém, pois pode potencialmente ser us
     <value>Configurações do Idle Master</value>
   </data>
   <data name="idle_simultaneous" xml:space="preserve">
-    <value>"Idlear" jogos simultaneamente por até duas horas, e então individualmente</value>
+    <value>"Idlear" jogos simultaneamente por até 2 horas, e então individualmente</value>
   </data>
   <data name="idling_behavior" xml:space="preserve">
     <value>Comportamento de "Idling"</value>
@@ -292,7 +292,7 @@ não compartilhe esta informação com ninguém, pois pode potencialmente ser us
     <value>&amp;OK</value>
   </data>
   <data name="order_default" xml:space="preserve">
-    <value>Padrão (ordem alfabética)</value>
+    <value>Padrão (Ordem Alfabética)</value>
   </data>
   <data name="order_least" xml:space="preserve">
     <value>Priorizar os jogos com o menor número de cartas disponíveis</value>
